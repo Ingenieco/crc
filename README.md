@@ -1,7 +1,7 @@
 # Análisis regulación de mercados de telecomunicaciones
-## Comisión de Regulación de las Comunicaciones
+## Comisión de Regulación de las Comunicaciones - CRC
 
-Proyecto para la detección de anomalías
+Resultados del análisis
 
 ![Build Status](https://img.shields.io/badge/python-yellow)
 
